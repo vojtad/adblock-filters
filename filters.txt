@@ -1,0 +1,6 @@
+! http://play.iprima.cz/
+play.iprima.cz##.you-shall-not-pass .you-shall-not-pass:style(display: none !important; visible: hidden !important; width: 0 !important; height: 0 !important)
+play.iprima.cz##.vjs-marker-ad:style(display: none !important)
+
+! facebook.com
+facebook.com##.home_right_column:style(min-height: auto !important)
