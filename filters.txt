@@ -5,3 +5,11 @@ iprima.cz###AdTrackVideoPlayer:style(display: none !important)
 
 ! facebook.com
 facebook.com##.home_right_column:style(min-height: auto !important)
+
+! titulky.com
+titulky.com##.bnx
+titulky.com###bodycont:style(background: white !important)
+titulky.com###pagefoot
+titulky.com###head > div:nth-of-type(1):not(#head_a):not(#head_b)
+titulky.com###head:style(height: auto !important)
+titulky.com###pagewrap:style(width: 986px !important; margin: 0 auto !important)
